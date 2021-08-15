@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research
-subtitle: High-Redshift Lyman-alpha Emitters
+title: Publications
 ---
 
 Coming soon!
