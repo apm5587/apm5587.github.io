@@ -5,4 +5,5 @@ title: About Me
 
 Coming soon!
 
-![full_portrait](../assets/img/full_portrait.jpg)
+<img src="../assets/img/full_portrait.jpg" 
+     width="100"  />
