@@ -22,6 +22,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Tutoring: "tutoring"
+  Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
