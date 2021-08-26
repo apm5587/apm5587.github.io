@@ -9,9 +9,9 @@ Leveraging the HETDEX dataset, I studied the stellar population properties of a 
 
 
 <img src="../assets/img/research/sedfit_10388.png" 
-     width="300", class="center"  />
+     width="300" class="center"  />
      
 <img src="../assets/img/research/cornerplot_10388.png" 
-     width="300", class="center" />
+     width="300" class="center" />
 
-My goal was to uncover exactly how these galaxy properties relate to the strength of Ly$\alpha$ emission, knowledge that could be invaluable for measuring the amount of neutral hydrogen in the epoch of reionization. 
+My goal was to uncover exactly how these galaxy properties relate to the strength of &alpha; emission, knowledge that could be invaluable for measuring the amount of neutral hydrogen in the epoch of reionization. 
