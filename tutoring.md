@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutoring
-subtitle: Private tutoring for undergraduate math, physics, and astronomy courses
+subtitle: Undergraduate math, physics, and astronomy courses
 ---
 
 Coming soon!
