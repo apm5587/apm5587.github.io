@@ -20,7 +20,7 @@ author: Adam P. McCarron
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  #Publications: "publications"
+  Publications: "publications"
   Tutoring: "tutoring"
   Contact: "contact"
   #Resources:
