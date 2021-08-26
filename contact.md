@@ -3,6 +3,6 @@ layout: page
 title: Contact
 ---
 
-Email: apm.astro[at]utexas.edu
+Email: apm.astro@utexas.edu
 
 Office: PMA 16.226
