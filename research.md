@@ -15,7 +15,7 @@ Leveraging the HETDEX dataset, I studied the stellar population properties of a 
 </figure>
  
 <img src="../assets/img/research/cornerplot_10388.png" width="600" class="center" />
-<center> *This is also a caption* </center>
+<center> <span style="font-size:8;"> This is also a caption </span> </center>
 
 My goal was to uncover exactly how these galaxy properties relate to the strength of Ly&alpha; emission, knowledge that could be invaluable for measuring the amount of neutral hydrogen in the epoch of reionization. We found strong correlations with mass and SFR, and, surprisingly, no correlation with dust (A<sub>V</sub>). 
 
