@@ -28,3 +28,8 @@ Send me an email with a syllabus if there is a course you would like tutoring fo
   * Minors: Math, Spanish
 * Ph.D. Candidate in Astronomy & Astrophysics - UT Austin (3rd year)
 * \>100 hours experience as Learning Assistant, Teaching Assistant, and Private Tutotor
+
+## Rates and Scheduling 
+
+Weekly or Bi-weekly schedules preferred  
+Email me at apm.astro@utexas.edu for information about rates and availability 
