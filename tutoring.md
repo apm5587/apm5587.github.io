@@ -4,8 +4,6 @@ title: Tutoring
 subtitle: Undergraduate math, physics, and astronomy courses
 ---
 
-Coming soon!
-
 ## Courses
 
 * Math
@@ -19,17 +17,17 @@ Coming soon!
 * Astronomy
   * All Undergradute Courses
 
-Send me an email with a syllabus if there is a course you would like tutoring for that is not in this list!
+Send me an email with a syllabus if there is a course you would like tutoring for that is not included above!
 
 ## Qualifications
 
 * Bachelor of Science in Physics, Astronomy & Astrophysics (Honors) - Penn State University (Schreyer Honors College) - 2019
-  * GPA: 4.0
+  * GPA: 4.0 (summa cum laude)
   * Minors: Math, Spanish
 * Ph.D. Candidate in Astronomy & Astrophysics - UT Austin (3rd year)
-* \>100 hours experience as Learning Assistant, Teaching Assistant, and Private Tutotor
+* \>100 hours experience as a Learning Assistant, Teaching Assistant, and Private Tutotor
 
 ## Rates and Scheduling 
 
-Weekly or Bi-weekly schedules preferred  
+Weekly or biweekly sessions preferred  
 Email me at apm.astro@utexas.edu for information about rates and availability 
