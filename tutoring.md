@@ -27,4 +27,4 @@ Send me an email with a syllabus if there is a course you would like tutoring fo
   * GPA: 4.0
   * Minors: Math, Spanish
 * Ph.D. Candidate in Astronomy & Astrophysics - UT Austin (3rd year)
-* >100 hours experience as Learning Assistant, Teaching Assistant, and Private Tutot
+* \>100 hours experience as Learning Assistant, Teaching Assistant, and Private Tutotor
