@@ -18,3 +18,13 @@ Coming soon!
   * General Physics (302/317)
 * Astronomy
   * All Undergradute Courses
+
+Send me an email with a syllabus if there is a course you would like tutoring for that is not in this list!
+
+## Qualifications
+
+* Bachelor of Science in Physics, Astronomy & Astrophysics (Honors), Penn State University (Schreyer Honors College) - 2019
+  * GPA: 4.0
+  * Minors: Math, Spanish
+* Ph.D. Candidate in Astronomy & Astrophysics at UT Austin (3rd year)
+* >100 hours experience as Learning Assistant, Teaching Assistant, and Private Tutot
