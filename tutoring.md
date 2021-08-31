@@ -10,8 +10,11 @@ Coming soon!
 
 * Math
   * Pre-calculus   
-  * Differential, Integral, and Multivariable Calculus (M408 series at UT Austin)
+  * Differential, Integral, and Multivariable Calculus (408 series at UT Austin)
 * Physics
-  * sub list
+  * Mechanics (301)
+  * E&M (316)
+  * Engineering Physics (303)
+  * General Physics (302/317)
 * Astronomy
-  * sub list
+  * All Undergradute Courses
