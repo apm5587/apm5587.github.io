@@ -30,4 +30,4 @@ Send me an email with a syllabus if there is a course you would like tutoring fo
 ## Rates and Scheduling 
 
 Weekly or biweekly sessions preferred, virtual or in-person available 
-Email me at apm.astro@utexas.edu for information about rates and availability 
+Email me at [apm.astro@utexas.edu](mailto:apm.astro@utexas.edu) for information about rates and availability 
