@@ -16,6 +16,9 @@ subtitle: Undergraduate math, physics, and astronomy courses
   * General Physics (302/317)
 * Astronomy
   * All Undergradute Courses
+* High School
+  * AP Calculus
+  * AP Physics 
 
 Send me an email with a syllabus if there is a course you would like tutoring for that is not included above!
 
