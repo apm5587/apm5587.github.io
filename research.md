@@ -7,6 +7,8 @@ I am broadly interested in galaxy formation, evolution, and how galaxies relate 
 
 ## Lyman-alpha Emitting Galaxies
 
+Update: the latest draft of this paper is available <a href="/assests/img/McCarron_manuscript_v20220126.pdf">here</a>!
+
 Leveraging the HETDEX dataset, I studied the stellar population properties of a sample of Lyman-alpha emitting galaxies (LAEs) between redshifts 1.9<z<3.5. I used spectral energy distribution (SED) fitting techniques to constrain the posterior distributions for galaxies' masses, star formation rates, dust contents, and more within a Bayesian framework. Such a technique explores the full galaxy parameter space using a Markov chain Monte Carlo method to find which parameters produce a spectral model best reflected by the observed data (in this case, from the Hubble Space Telescope). The pictures below show a model fit to the data as well as a "corner" plot showing the posterior distributions and their interdependencies. 
 
  <img src="../assets/img/research/sedfit_10388.png" width="600" class="center"  />
